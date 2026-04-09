@@ -1,0 +1,73 @@
+export const products = [
+  {
+    id: 1,
+    name: 'Anggur Merah',
+    price: 50000,
+    unit: '1 kg',
+    category: 'buah',
+  },
+  {
+    id: 2,
+    name: 'Jeruk',
+    price: 30000,
+    unit: '1 kg',
+    category: 'buah',
+  },
+  {
+    id: 3,
+    name: 'Alpukat',
+    price: 35000,
+    unit: '1 kg',
+    category: 'buah',
+  },
+ {
+    id: 4,
+    name: 'Delima',
+    price: 45000,
+    unit: '1 kg',
+    category: 'buah',
+  },
+{
+    id: 5,
+    name: 'Apel Fuji',
+    price: 30000,
+    unit: '1 kg',
+    category: 'buah',
+  },
+  {
+    id: 6,
+    name: 'Parcel Kecil',
+    price: 20000,
+    category: 'parcel',
+  },
+  {
+    id: 7,
+    name: 'Parcel Sedang',
+    price: 30000,
+    category: 'parcel',
+  },
+ {
+    id: 8,
+    name: 'Parcel Besar',
+    price: 40000,
+    category: 'parcel',
+  },
+  {
+    id: 9,
+    name: 'Jus Alpukat',
+    price: 12000,
+    category: 'jus',
+  },
+ {
+    id: 10,
+    name: 'Jus Buah Naga',
+    price: 10000,
+    category: 'jus',
+  },
+   {
+    id: 11,
+    name: 'Jus Melon',
+    price: 10000,
+    category: 'jus',
+  },
+]
